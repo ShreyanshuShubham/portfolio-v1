@@ -1,0 +1,63 @@
+{
+    "name": "Shreyanshu Shubham",
+    "experiences": [
+        {
+            "position": "Winter Intern - Associate Java Developer",
+            "organization": "Zscaler Softech India Pvt. Ltd.",
+            "duration": "Feb 2024 - Present",
+            "description": []
+        },
+        {
+            "position": "Summer Intern - Associate Java Developer",
+            "organization": "Zscaler Softech India Pvt. Ltd.",
+            "duration": "Jun 2023 - Oct 2023",
+            "description": []
+        },
+        {
+            "position": "Cyber Security Co-Lead",
+            "organization": "Google Developer Student Clubs SIT",
+            "duration": "Sept 2023 - Present",
+            "description": []
+        },
+        {
+            "position": "Joint Secretary - Planning",
+            "organization": "DeCoders - The Official Programming Club Of SIT",
+            "duration": "Jun 2020 - Present",
+            "description": [
+                "Helped in organising Code-it-out, a quaterly coding competition on HackerRank",
+                "Design of logos, posters and videos for events",
+                "Organised BlindCoding, an event in CodeGames-2022",
+                "Organised BlindCoding, an event in CodeGames-2023"
+            ]
+        },
+        {
+            "position": "Flutter Lead",
+            "organization": "GeeksForGeeks - SIT Student Chapter",
+            "duration": "Jul 2022 - Present",
+            "description": [
+                "Helped in organizing and managing club event",
+                "Organized Wikispedia, game for the freshers event"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institute": "Siddaganga Institute of Technology, Tumkur",
+            "course": "Bachelor of Engineering - Information Science and Engineering",
+            "score": "CGPA: 8.64",
+            "duration": "December 2020 - May 2024"
+        },
+        {
+            "institute": "Lal Bahadur Shastri Sr. Sec. School, R.K. Puram",
+            "course": "12th Board - Science",
+            "score": "Percentage: 84%",
+            "duration": "April 2017 - March 2019"
+        },
+        {
+            "institute": "St. Michael's School, Siliguri",
+            "course": "10th Board",
+            "score": "Percentage: 93.8%",
+            "duration": "March 2012 - April 2017"
+        }
+    ]
+}
