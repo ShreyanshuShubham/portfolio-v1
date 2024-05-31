@@ -20,6 +20,15 @@
             "description": []
         },
         {
+            "position": "Flutter Lead",
+            "organization": "GeeksForGeeks - SIT Student Chapter",
+            "duration": "Jul 2022 - Present",
+            "description": [
+                "Helped in organizing and managing club event",
+                "Organized Wikispedia, game for the freshers event"
+            ]
+        },
+        {
             "position": "Joint Secretary - Planning",
             "organization": "DeCoders - The Official Programming Club Of SIT",
             "duration": "Jun 2020 - Present",
@@ -28,15 +37,6 @@
                 "Design of logos, posters and videos for events",
                 "Organised BlindCoding, an event in CodeGames-2022",
                 "Organised BlindCoding, an event in CodeGames-2023"
-            ]
-        },
-        {
-            "position": "Flutter Lead",
-            "organization": "GeeksForGeeks - SIT Student Chapter",
-            "duration": "Jul 2022 - Present",
-            "description": [
-                "Helped in organizing and managing club event",
-                "Organized Wikispedia, game for the freshers event"
             ]
         }
     ],

@@ -43,7 +43,7 @@ function load_data_education(data_array) {
             + current_item.score
             + '</p></div><div class="resume-date text-md-right"><span class="text-primary">'
             + current_item.duration
-            + '</span></div></div><br>';
+            + '</span></div></div>';
         
         let div = document.createElement('div');
         div.innerHTML = education_element;
