@@ -50,7 +50,7 @@ function load_data_education(data_array) {
         education_div.appendChild(div)
     }
 }
-fetch('../data/user_profile.json')
+fetch('data/user_profile.json')
     .then((res) => res.text())
     .then((text) => {
         user_data = JSON.parse(text)
